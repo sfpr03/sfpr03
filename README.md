@@ -1,7 +1,5 @@
 
 
-## Olá, eu sou a Sthefanie Fernanda!
-
 <div align="center">
   <a href="https://github.com/sfpr03">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=sfpr03&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
